@@ -1,19 +1,9 @@
 {
   "streams": [
     {
-      "title": "sfsdf",
-      "description": "sdfsdf",
+      "title": "Fantastic stream",
+      "description": "this stream is marvelous",
       "id": 1
-    },
-    {
-      "title": "sfsdf",
-      "description": "sdfsdf",
-      "id": 2
-    },
-    {
-      "title": "asda",
-      "description": "asdasd",
-      "id": 3
     },
     {
       "title": "I created this stream",
