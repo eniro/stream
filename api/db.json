@@ -1,14 +1,3 @@
 {
-  "streams": [
-    {
-      "title": "Fantastic stream",
-      "description": "this stream is marvelous",
-      "id": 1
-    },
-    {
-      "title": "Harry Potter",
-      "description": "not",
-      "id": 4
-    }
-  ]
+  "streams": []
 }
