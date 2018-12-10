@@ -1,3 +1,14 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "FantasticStream",
+      "description": "abc",
+      "id": 1
+    },
+    {
+      "title": "Skyrim stream",
+      "description": "asdf",
+      "id": 2
+    }
+  ]
 }
